@@ -134,3 +134,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Misc
+notebooks/catboost_info/
